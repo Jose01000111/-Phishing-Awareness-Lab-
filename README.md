@@ -47,7 +47,7 @@ If I accidentally named files differently than the lab instructions (for example
 
 ![KRwd9p0](https://github.com/user-attachments/assets/78e6de0d-9638-4837-845c-4d837e30dfe4)
 
-### ☎️ Step: Twilio Verification Required
+# ☎️ Step: Twilio Verification Required
 
 I had to verify phone numbers (or upgrade my account) in Twilio before I could successfully send messages during testing.
 
