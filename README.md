@@ -1,8 +1,8 @@
 # 🧪 Phishing Awareness Lab – "Oops, You Clicked It!"
 
 ## 🛠️ LAB GOAL
-## In this lab, I am simulating a phishing awareness campaign by sending carefully crafted phishing links to my friends and family. The goal is to help them recognize phishing attempts and understand the risks involved. To keep the campaign realistic and engaging, I created landing pages in both English and Spanish, directing recipients to language-appropriate phishing awareness pages.
-## Through this hands-on exercise, I also deepen my understanding of what a malicious actor might do to inject viruses or perform other harmful actions, all while keeping the simulation ethical, safe, and educational.
+### In this lab, I am simulating a phishing awareness campaign by sending carefully crafted phishing links to my friends and family. The goal is to help them recognize phishing attempts and understand the risks involved. To keep the campaign realistic and engaging, I created landing pages in both English and Spanish, directing recipients to language-appropriate phishing awareness pages.
+### Through this hands-on exercise, I also deepen my understanding of what a malicious actor might do to inject viruses or perform other harmful actions, all while keeping the simulation ethical, safe, and educational.
 
 ![s1uPDqN](https://github.com/user-attachments/assets/900653b9-a700-4331-b80c-bf6991e6ee38)
 
