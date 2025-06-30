@@ -29,11 +29,12 @@ Through this hands-on exercise, I also deepen my understanding of what a malicio
 ### ## 🚧 Step: Fix File Names for Consistency
 If I accidentally named files differently than the lab instructions (for example, phishing-ex.html instead of phishing-en.html), I must rename them to keep everything clear and consistent.
 
-I use the mv command to rename files quickly:
+### I use the mv command to rename files quickly:
 
 ![H0v7hwb](https://github.com/user-attachments/assets/3a2e4a09-6c58-461e-a234-0b30787bccc5)
 
 ## 📊 PART 2: ENABLE BASIC ANALYTICS
+
 ### 🐾 Step 1: Enable Access Logging 
 
 ![Nr8Eema](https://github.com/user-attachments/assets/1f9d7b4a-90d1-46c4-a1bf-0d978a585dc5)
