@@ -85,14 +85,15 @@ I use the mv command to rename files quickly:
 ## 🐞 Step: Fix Code and Verify Case Sensitivity
 If my SMS messages fail to send, I need to fix some code and double-check my Account SID and Auth Token to make sure every uppercase and lowercase letter matches exactly. These credentials are case-sensitive, so even one wrong letter breaks authentication.
 
-![gvI1OFq](https://github.com/user-attachments/assets/2c1f4d69-a98c-4fbe-afa7-2282bf682f1e)
+![WmvdYiW](https://github.com/user-attachments/assets/fc7c36b5-7d9b-4afd-8599-9bae1c9d2cb0)
 
 ### 📲 Send the messages
 
 ![rIVe7ke](https://github.com/user-attachments/assets/bd01e9c7-4d71-478e-9007-ceba922b9349)
 
-![OJ7t57K](https://github.com/user-attachments/assets/76d2530f-eb60-41b7-8e0a-92d0c5f0b000)
+![WdrDUoO](https://github.com/user-attachments/assets/ece9a050-90b1-45de-9050-c60b67e63790)
 
+# Phishing Awarness campaign is live!
 ---
 
 ## 📚 Lessons Learned
