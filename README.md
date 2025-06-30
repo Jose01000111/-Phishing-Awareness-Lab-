@@ -45,7 +45,11 @@ If I accidentally named files differently than the lab instructions (for example
 
 ![7BQczF1](https://github.com/user-attachments/assets/ad4f7311-fbdc-477e-a583-dc1a031537df)
 
-![7BQczF1](https://github.com/user-attachments/assets/19ef5d52-2fce-4ed2-b2ee-8e6ff4022c3c)
+![KRwd9p0](https://github.com/user-attachments/assets/78e6de0d-9638-4837-845c-4d837e30dfe4)
+
+### ☎️ Step: Twilio Verification Required
+
+I had to verify phone numbers (or upgrade my account) in Twilio before I could successfully send messages during testing.
 
 ### 📋 Step 1: Save Contacts as contacts.csv
 ### (Had to keep the contacts information private)
