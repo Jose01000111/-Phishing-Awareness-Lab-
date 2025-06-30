@@ -93,6 +93,29 @@ If my SMS messages fail to send, I need to fix some code and double-check my Acc
 
 ![OJ7t57K](https://github.com/user-attachments/assets/76d2530f-eb60-41b7-8e0a-92d0c5f0b000)
 
+---
+
+## 📚 Lessons Learned
+💻 I learned how HTML syntax works to build simple, effective phishing awareness pages.
+
+🐧 Linux really rocks—I got hands-on managing services and files on Rocky Linux.
+
+🛠️ Bash scripting can be powerful and complex, requiring attention to detail.
+
+📲 I used the Twilio API to send SMS messages programmatically.
+
+🔐 Case sensitivity in Account SID and Auth Token is crucial—one wrong letter breaks things!
+
+🌐 Setting up language-specific phishing pages made the campaign more engaging.
+
+📡 Monitoring access logs helped me track who clicked the phishing links.
+
+🔄 Troubleshooting file names and scripts kept my lab running smoothly.
+
+🧑‍💻 I gained insight into how attackers might try to deliver malicious payloads via phishing.
+
+---
+
 ## 🧰 TECHNOLOGY STACK
 Operating System: Rocky Linux
 
@@ -106,7 +129,10 @@ Tools: curl, nano, firewall-cmd, bash scripting
 
 Security: HTTPS via Certbot (Let’s Encrypt) for secure communication
 
-## 🐞 Step: Fix Code and Verify Case Sensitivity
-If my SMS messages fail to send, I need to fix some code and double-check my Account SID and Auth Token to make sure every uppercase and lowercase letter matches exactly. These credentials are case-sensitive, so even one wrong letter breaks authentication.
+---
+
+# 🔜 To Be Continued...
+Now, I wait and watch to see who clicks the links and learn from their behavior.
+
 
 
