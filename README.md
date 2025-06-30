@@ -35,3 +35,12 @@ Messaging Service: Twilio API (for sending SMS phishing links)
 Tools: curl, nano, firewall-cmd, bash scripting
 
 Security: HTTPS via Certbot (Let’s Encrypt) for secure communication
+
+## 🐞 Step: Fix Code and Verify Case Sensitivity
+If my SMS messages fail to send, I need to fix some code and double-check my Account SID and Auth Token to make sure every uppercase and lowercase letter matches exactly. These credentials are case-sensitive, so even one wrong letter breaks authentication.
+
+## 🚧 Step: Fix File Names for Consistency
+If I accidentally named files differently than the lab instructions (for example, phishing-ex.html instead of phishing-en.html), I must rename them to keep everything clear and consistent.
+
+I use the mv command to rename files quickly:
+
