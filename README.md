@@ -10,7 +10,7 @@ Through this hands-on exercise, I also deepen my understanding of what a malicio
 
 ![ASrUib8](https://github.com/user-attachments/assets/b1f83595-dd1b-41fd-89b2-9bf380907dc4)
 
-![jAxjBs2](https://github.com/user-attachments/assets/8f611bdd-730b-4c9d-8d33-2e72932fcdb0
+![jAxjBs2](https://github.com/user-attachments/assets/8f611bdd-730b-4c9d-8d33-2e72932fcdb0)
 
 ![OPOCyLH](https://github.com/user-attachments/assets/461c3279-e6e6-48ae-957c-2abba1a4dce0)
 
